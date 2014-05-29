@@ -1,0 +1,17 @@
+#container{
+	  width:960px;
+    background: #FFFFF0;
+    border: 1px solid #CCC;
+    height: 2000px;
+    margin: 20px auto;
+
+
+}
+
+#footer {
+	clear: both;
+    position: relative;
+    z-index: 10;
+    height: 3em;
+    margin-top: -3em;
+}
